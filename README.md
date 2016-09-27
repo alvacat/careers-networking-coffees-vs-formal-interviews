@@ -12,7 +12,7 @@ A few things to note:
 - Since the other person’s time is valuable, know that you may have to wait or that the time scheduled may be cut short. These should not be taken as insulting or negatively in any way. People are busy.
 - If you have a meeting like this in a coffee shop/cafe, offer to pay for the other person’s drink in exchange for their time and advice.
 
-If you make a good impression, the person you meet may offer to refer you to people in their networking or for job opportunities they know about.  It is not appropriate to explicitly ask for a job in a conversation like this. These situations are for advice, a forum to  answer your questions, and for general relationship building. 
+If you make a good impression, the person you meet may offer to refer you to people in their network or for job opportunities they know about.  It is not appropriate to explicitly ask for a job in a conversation like this. These situations are for advice, a forum to  answer your questions, and for general relationship building. 
 
 ## What is the Purpose of the Formal Interview
 
