@@ -49,7 +49,3 @@ There’s an old saying to keep in mind: *“When you ask for advice you get a j
 - Practice your handshake. Dead fishes are gross.
 - Rehearse interview question answers but try not to sound “canned’.
 - Finally, be yourself.
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-networking-coffees-vs-formal-interviews'>Careers Networking Coffees vs Formal Interviews</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-networking-coffees-vs-formal-interviews'>Networking Coffees vs Formal Interviews</a> on Learn.co and start learning to code for free.</p>
