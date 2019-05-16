@@ -4,7 +4,7 @@ Interviews, whether networking/informational or formal interviews, require prepa
 
 ## What is the Purpose of the Informational Interview
 
-The networking, informational interview, or the “coffee meeting” is a one-on-one conversation that you initiate in which you seek advice on your career, industry, culture etc.   You’re inviting someone in your network or someone you’ve met through a 2nd degree connection to meet and have a conversation. You can use these conversations to learn about a job and the skills and background that are considered a fit at a person’s company.  It’s good to talk with someone who works in the industry you want to learn about or has the specific job you are looking for. These meetings are a great way to practice your interview skills.  They are also useful if you know what type of job you want but could use some advice on breaking into the industry or that specific company.
+The networking, informational interview, or the “coffee meeting” is a one-on-one conversation that you initiate in which you seek advice on your career, industry, culture, etc.  You’re inviting someone in your network or someone you’ve met through a 2nd degree connection to meet and have a conversation. You can use these conversations to learn about a job and the skills and background that are considered a fit at a person’s company. It’s good to talk with someone who works in the industry you want to learn about or has the specific job you are looking for. These meetings are a great way to practice your interview skills.  They are also useful if you know what type of job you want but could use some advice on breaking into the industry or that specific company.
 
 A few things to note: 
 
@@ -32,7 +32,7 @@ A few things to note:
 
 For a networking/informational interview, if you make a good impression, you may be referred to others for networking or job opportunities.  Or you might be invited to talk again. Worst case scenario, you made a friend/connection in the tech community.
 
-For a formal interview, the best outcome would be either moving to the next round of the interview process, receiving a code challenge, or getting an offer. 
+For a formal interview, the best outcome would be either moving to the next round of the interview process, receiving a technical assessment/challenge, or getting an offer. 
 
 There’s an old saying to keep in mind: *“When you ask for advice you get a job. When you ask for a job you get advice.”* 
 
